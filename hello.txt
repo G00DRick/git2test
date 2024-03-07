@@ -1,0 +1,4 @@
+# Hello World!
+
+Now i'm learning git from theodinproject.com
+this lil confusing but aight
