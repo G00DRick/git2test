@@ -3,5 +3,5 @@
 Hello Odin!
 Hello again Odin !
 
-what if i modifiy again after i coommited
+what if i modifiy again after i commited
 let's see
